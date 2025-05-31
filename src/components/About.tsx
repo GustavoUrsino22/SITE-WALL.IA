@@ -84,8 +84,8 @@ const About: React.FC = () => {
           <div className="relative">
             <div className="relative z-10 rounded-lg overflow-hidden shadow-xl">
               <img 
-                src="\public\Logo2.png" 
-                alt="Our team" 
+                src="\Logo3.png" 
+                alt="logo" 
                 className="w-full h-auto"
               />
             </div>
